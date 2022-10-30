@@ -1,5 +1,6 @@
 # Alpha Case Study
 
+ .Net Core 6 Web API Projesidir.
 
 
 ## Migrations
