@@ -1,4 +1,4 @@
-# Alpha Case Study
+# Study
 
  .Net Core 6 Web API Projesidir.
 
@@ -23,9 +23,6 @@
 
 
 
-Proje ile ilgili soru sormak veya herhangi bir konuda iletişime geçmek için 
-No: 05545734462
-Mail: onerberat0@gmail.com
 
 
 
